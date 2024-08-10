@@ -8,43 +8,43 @@ export default {
           id: 1,
           name: 'HTML',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
-          status: 'Advanced'
+          status: 'Beginner'
         },
         {
           id: 2,
           name: 'CSS',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
-          status: 'Advanced'
+          status: 'Beginner'
         },
         {
           id: 3,
           name: 'PHP',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
-          status: 'Advanced'
+          status: 'Beginner'
         },
         {
           id: 4,
           name: 'Javascript',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
-          status: 'Advance'
+          status: 'Beginner'
         },
         {
           id: 5,
           name: 'Laravel',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
+          status: 'Beginner'
         },
         {
           id: 6,
           name: 'Codeigniter',
           imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
+          status: 'Beginner'
         },
         {
           id: 7,
           name: 'VueJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
-          status: 'Intermediate'
+          status: 'Beginner'
         },
         {
           id: 8,
@@ -56,19 +56,19 @@ export default {
           id: 9,
           name: 'NodeJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
-          status: 'Beginner'
+          status: 'Expert'
         },
         {
           id: 10,
           name: 'Tailwind',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
-          status: 'Advance'
+          status: 'Beginner'
         },
         {
           id: 11,
           name: 'Bootstrap',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
-          status: 'Intermediate'
+          status: 'Beginner'
         },
         {
           id: 12,
@@ -128,18 +128,10 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp; Hai, Saya Muh.Ikhsan.Ainul, Saya Lahir Tahun 2007. Saya Tinggal Bersama Ibu Saya. Saya Sangat Suka Belajar Hal Yang Berhubungan Dengan Teknologi. Saya Sudah Lama Pengen Jadi Full-Stack Web Developer. Saya Tidak Bisa Mengobrol Dengan Benar Dan Saya Saya Sangat Gugup Jika Bersama Dengan Perempuan! Entah Kenapa Saya Jadi Kayak Gini. Tapi Itu Semua Bukan Jadi Halangan Saya Untuk Tetap Bisa Bergaul Dan Berkomunikasi Dengan Teman-Teman Saya
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; Saya Sangat Suka Melakukan Codingan Untuk Membuat Web Walaupun Banyak Di Bantu Oleh AI, Saya Juga Suka Pelajaran Networking
           </p>
         </div>
 
